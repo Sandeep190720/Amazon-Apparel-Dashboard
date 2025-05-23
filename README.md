@@ -16,52 +16,6 @@ This dashboard offers a visual exploration of **Amazon India Apparel Sales Data*
 * Empower decision-makers with **filterable insights** for better inventory and marketing planning.
 
 ---
-
-### 📈 Charts Used
-
-1. **Tile Chart: Annual Sales**
-
-   * 📌 **Metric**: Total Sales Amount
-
-2. **Tile Chart: Annual Sales Quantity**
-
-   * 📌 **Metric**: Total Units Sold
-
-3. **Bar Chart: Top Selling Categories**
-
-   * Categories like **Set, Kurta, Western Dress**, etc.
-   * Descending sales order with heat color indicators.
-
-4. **Horizontal Bar Chart: Top States by Sales**
-
-   * Highlights **Maharashtra, Karnataka, Delhi**, etc.
-   * Shows geographic revenue distribution.
-
-5. **Pivot Table: Sales Analysis (Category vs. Size)**
-
-   * Sizes include **XXL, XL, M, S**, etc.
-   * Sales matrix with heat color formatting.
-
-6. **Map Chart: Geographic Sales Distribution**
-
-   * Indian states plotted by latitude/longitude.
-   * Maharashtra tops sales geographically.
-
-7. **Heated Tree Map: AOV by Category**
-
-   * Visualizes **average order value** by apparel category.
-   * Highlights top categories like **Set** for strategic pricing.
-
----
-
-### 🔍 Filters Used
-
-* 📅 **Month Filter** (Calendar UI)
-* 📐 **Product Size Slider**
-* 🚚 **Shipping Status Dropdown**
-* 👗 **Product Category Dropdown**
-
----
 ### 🧾 Dashboard Details
 
 ![Amazon Apparel Dashboard](https://github.com/user-attachments/assets/eaa7c535-7d8a-4b48-bdd8-f199a6b1975e)
@@ -104,10 +58,3 @@ This dashboard offers a **comprehensive snapshot of Amazon's apparel business** 
 * **Tableau** (Dashboard design & visualization)
 * **Real Amazon Sales Data** (Apparel category, India)
 
----
-
-Let me know if you'd like:
-
-* A **Markdown file** for direct copy-paste to GitHub.
-* Suggestions for next steps (e.g., predictive modeling, seasonality analysis).
-* Screenshots or GIFs added to the README to make it more visual.
