@@ -64,8 +64,9 @@ This dashboard offers a visual exploration of **Amazon India Apparel Sales Data*
 ---
 ### 🧾 Dashboard Details
 
-* ![Dashboard Preview](https://github.com/user-attachments/assets/37e24d0d-080d-4eb4-819f-721e43c6f1d8)
-* 🔗 [Live Tableau Dashboard](https://public.tableau.com/app/profile/s.r7802/viz/AmazonApparelSalesInsight_22May2025/Dashboard1?publish=yes)
+![Amazon Apparel Dashboard](https://github.com/user-attachments/assets/eaa7c535-7d8a-4b48-bdd8-f199a6b1975e)
+
+* 🔗 [Dashboard Link](https://public.tableau.com/app/profile/s.r7802/viz/AmazonApparelSalesInsight_22May2025/Dashboard1?publish=yes)
 * 📂 [Download Dataset (Amazon_Apparel.xlsx)](https://github.com/Sandeep190720/Amazon-Apparel-Dashboard/blob/main/Amazon%20Apparel.xlsx)
 
 
