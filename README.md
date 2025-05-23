@@ -1,12 +1,8 @@
 # Amazon-Apparel-Dashboard (Tableau)
 Exploratory analysis of Amazon India Apparel Sales Data using Tableau 
-##Great! Based on your provided details, here’s how you can structure your **GitHub repository README** and project documentation for the **Amazon Apparel Dashboard**.
-
 ---
 
-## 🧵 Amazon Apparel Dashboard (Tableau)
-
-### 📊 Project Overview
+### Project Overview
 
 This dashboard offers a visual exploration of **Amazon India Apparel Sales Data**, crafted to uncover trends and actionable insights across categories, sizes, and regions. Built using **Tableau**, the project analyzes apparel performance metrics, helping stakeholders understand customer preferences and optimize inventory strategies.
 
@@ -66,7 +62,11 @@ This dashboard offers a visual exploration of **Amazon India Apparel Sales Data*
 * 👗 **Product Category Dropdown**
 
 ---
+### Dashboard Details 
+* **<a href = https://public.tableau.com/app/profile/s.r7802/viz/AmazonApparelSalesInsight_22May2025/Dashboard1?publish=yes> Dashbaord Link </a>**
+* **<a href = ![Screenshot 2025-05-23 at 3 16 39 PM](https://github.com/user-attachments/assets/c15af019-c6b3-4b74-a9cb-7729224ca854)
 
+---
 ### 📌 KPI Questions Answered
 
 1. What is the **total annual sales and quantity** sold across all categories?
